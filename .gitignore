@@ -1,0 +1,20 @@
+# SSL certificates (generated)
+ssl/*.crt
+ssl/*.key
+
+# User database (contains password hashes)
+dovecot/users
+
+# Private keys
+opendkim/keys/**/*.private
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

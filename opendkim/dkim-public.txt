@@ -1,0 +1,3 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn9mFASUX6XAM03w+XvE5Ffi88VsvCeKcfPJLzfPviKxV0sGnmTiPjVKMojjsjwvZkkiqq4pAAISLcBc8fswtNgrUXTApQNKT5tn3jTqVnqDaVj3+W7+UQ5mtBl9FWxto3UEPRGlt7SWVqX/1G8ScT2q9evW8Ko6V9M2WrgFjCcB6Aqse8dTRr4+40xJNlW2vV2w+mVaze9vLhT"
+	  "/Yq8HaegJ+Yhby0JcU0/amRHEYDiOnqjpz4eRpbHhPUGbcnNfZbmsRk+eaEGYqhS7kmUL6gP1PxWz5kv2+pCoqOIxXDcqm+oMXK5GoygrqhKkm782Vbt7Kr/A8cP0nz/IFbuoxrwIDAQAB" )  ; ----- DKIM key mail for clario.codes
